@@ -1,0 +1,7 @@
+C:\Users\C2K\Downloads\Actividad de evidencia 1_U2 Abstract Factory\Actividad de evidencia 1_U2 Abstract Factory\bin\Debug\Actividad de evidencia 1_U2 Abstract Factory.exe.config
+C:\Users\C2K\Downloads\Actividad de evidencia 1_U2 Abstract Factory\Actividad de evidencia 1_U2 Abstract Factory\bin\Debug\Actividad de evidencia 1_U2 Abstract Factory.exe
+C:\Users\C2K\Downloads\Actividad de evidencia 1_U2 Abstract Factory\Actividad de evidencia 1_U2 Abstract Factory\bin\Debug\Actividad de evidencia 1_U2 Abstract Factory.pdb
+C:\Users\C2K\Downloads\Actividad de evidencia 1_U2 Abstract Factory\Actividad de evidencia 1_U2 Abstract Factory\obj\Debug\Actividad de evidencia 1_U2 Abstract Factory.csproj.AssemblyReference.cache
+C:\Users\C2K\Downloads\Actividad de evidencia 1_U2 Abstract Factory\Actividad de evidencia 1_U2 Abstract Factory\obj\Debug\Actividad de evidencia 1_U2 Abstract Factory.csproj.CoreCompileInputs.cache
+C:\Users\C2K\Downloads\Actividad de evidencia 1_U2 Abstract Factory\Actividad de evidencia 1_U2 Abstract Factory\obj\Debug\Actividad de evidencia 1_U2 Abstract Factory.exe
+C:\Users\C2K\Downloads\Actividad de evidencia 1_U2 Abstract Factory\Actividad de evidencia 1_U2 Abstract Factory\obj\Debug\Actividad de evidencia 1_U2 Abstract Factory.pdb
